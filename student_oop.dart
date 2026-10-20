@@ -17,7 +17,7 @@ class Student {
     }
   }
 
-  void displayInfo() {
+  void displayInfo() { 
     print('Name: $name');
     print('Course: $course');
     print('Year Level: $yearLevel');
