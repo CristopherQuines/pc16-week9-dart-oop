@@ -27,8 +27,8 @@ class Student {
 
 void main() {
   List<Student> students = [
-    Student('Christopher', 'BSIT', 3, 95.0),
-    Student('Alex', 'BSIT', 2, 90.0),
+    Student('Cristopher', 'BSIT', 3, 95.0),
+    Student('Challey', 'BSIT', 2, 90.0),
   ];
 
   for (Student student in students) {
